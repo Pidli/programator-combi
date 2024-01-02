@@ -88,6 +88,9 @@
     //Uzivatel xxx se narodil v roce yyy.
     echo "<br>";
     echo "Uzivatel {$poleOsoba["krestniJmeno"]} se narodil v roce {$poleOsoba["rokNarozeni"]}.";
+
+    echo "<br>";
+    echo "Cau!!!";
     ?>
 </body>
 </html>

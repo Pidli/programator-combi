@@ -16,3 +16,16 @@ U - untracked (soubor v historii jeste vubec neni)
 A - added (tento soubor bude pridan do noveho commitu)
 M - soubor byl upraven oproti zaznamu v historii
 D - deleted byl byl v nejaky moment odstranen
+
+
+vsechny soubory ktere chcme nechat zapadt do historie musime naklikat do staging area
+
+pak provemede nas zapis do historii tlacitkem commit
+
+pokud mate git hub certve nainstalovany, tak vam to vyhodi chybu
+
+musite se gitu nejakym zpusobem identifikovat
+
+musime spustit tyto 2 prikazy
+git config --global user.email "tonda.truong@primakurzy.cz"
+git config --global user.name "Tony Truong"
