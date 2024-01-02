@@ -1,0 +1,18 @@
+
+stahnout ze stranek GIT
+https://git-scm.com/download
+
+instalace
+prokliktejte next dokud nenararazite na volbu editoru
+vyberte editor VSC
+musite v dlasim kroku zmenit nazev hlavni vetve z mater na main
+pak uz staci vse jen proklikat next
+
+ve VSC si otevreme zalozku pro GIT a nainicializujme historii
+nyni si muzme manulane vytvaret zaznamy do historie projektu, rika se tomu commit
+
+soubory v ve vasem projektu muzou mit ruzne stavy
+U - untracked (soubor v historii jeste vubec neni)
+A - added (tento soubor bude pridan do noveho commitu)
+M - soubor byl upraven oproti zaznamu v historii
+D - deleted byl byl v nejaky moment odstranen
